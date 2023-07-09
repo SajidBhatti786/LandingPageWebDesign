@@ -2,6 +2,10 @@
 
 The LandingPageWebDesign project is a website built with HTML, CSS, and JavaScript, incorporating animations using the `data-aos` library. It consists of various sections including a hero section, about section, testimonials section, products section, footer, and header.
 
+## Demo
+
+[Live Preview](https://sajidbhatti786.github.io/LandingPageWebDesign/).
+
 ## Features
 
 - Interactive and visually appealing design.
